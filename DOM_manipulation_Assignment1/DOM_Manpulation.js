@@ -1,5 +1,3 @@
-// Write your code below:
-// Write your code below:
 const mainHeading = document.getElementById("main-heading");
 mainHeading.textContent = "Fruit World";
 mainHeading.style.color = "orange";
